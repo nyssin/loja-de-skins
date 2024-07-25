@@ -1,15 +1,39 @@
 h1{
 text-align: center;
+
 }
 
-h2{
+
+h3{
 text-align: center;
 
 
 }
 
-p{
-font-size: larger;
+img{
 
+width: 100%;
+
+}
+
+p{
+
+    text-align: center;
+
+
+}
+
+.descricao{
+
+text-align: justify;
+
+}
+
+.preco{
+text-align: left;
+
+}
+b{
+color: red;
 
 }
